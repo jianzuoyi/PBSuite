@@ -1,0 +1,10 @@
+2017-10-26 16:40:19,172 [INFO] Running /its1/GB_BT2/jianzuoyi/pipeline/biosoft/01.Assembly/PBSuite/PBSuite_15.8.24/bin/Support.py /its1/GB_BT2/jianzuoyi/pipeline/biosoft/01.Assembly/PBSuite/PBSuite_15.8.24/docs/jellyExample/test/mapping/filtered_subreads.fasta.m4 /its1/GB_BT2/jianzuoyi/pipeline/biosoft/01.Assembly/PBSuite/PBSuite_15.8.24/docs/jellyExample/data/reference/lambda.gapInfo.bed /its1/GB_BT2/jianzuoyi/pipeline/biosoft/01.Assembly/PBSuite/PBSuite_15.8.24/docs/jellyExample/test/support/filtered_subreads.fasta.gml
+2017-10-26 16:40:19,172 [INFO] Building Helper Objects
+2017-10-26 16:40:19,172 [INFO] Connecting Alignments
+2017-10-26 16:40:19,271 [INFO] Classifying Alignments' Support
+2017-10-26 16:40:19,304 [WARNING] Read ['m130725_000747_00121_c100518582550000001823079209281362_s1_p0/31986/662_3287'] self-extends Node ref0000003e5 Possible Evidence of Tandem Repeat on Singleton
+2017-10-26 16:40:19,315 [WARNING] Read ['m130725_000747_00121_c100518582550000001823079209281362_s1_p0/15956/701_2749'] self-extends Node ref0000001e5 Possible Evidence of Tandem Repeat on Singleton
+2017-10-26 16:40:19,334 [WARNING] Read ['m130724_230321_00121_c100518582550000001823079209281361_s1_p0/44067/1000_3246'] self-extends Node ref0000003e5 Possible Evidence of Tandem Repeat on Singleton
+2017-10-26 16:40:19,339 [WARNING] Read ['m130724_230321_00121_c100518582550000001823079209281361_s1_p0/57008/1515_3578'] self-extends Node ref0000001e3 Possible Evidence of Tandem Repeat on Singleton
+2017-10-26 16:40:19,346 [INFO] Saving Support Graph
+2017-10-26 16:40:19,412 [INFO] Finished

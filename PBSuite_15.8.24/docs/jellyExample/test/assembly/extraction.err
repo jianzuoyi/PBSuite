@@ -1,0 +1,13 @@
+[WARNING] Couldn't find /its1/GB_BT2/jianzuoyi/pipeline/biosoft/01.Assembly/PBSuite/PBSuite_15.8.24/docs/jellyExample/data/reference/lambda.qual... assuming there isn't a quality file for the reference
+2017-10-26 16:40:20,076 [INFO] Running /its1/GB_BT2/jianzuoyi/pipeline/biosoft/01.Assembly/PBSuite/PBSuite_15.8.24/bin/Extraction.py /its1/GB_BT2/jianzuoyi/pipeline/biosoft/01.Assembly/PBSuite/PBSuite_15.8.24/docs/jellyExample/test/Protocol.xml
+[WARNING] Couldn't find /its1/GB_BT2/jianzuoyi/pipeline/biosoft/01.Assembly/PBSuite/PBSuite_15.8.24/docs/jellyExample/data/reference/lambda.qual... assuming there isn't a quality file for the reference
+2017-10-26 16:40:20,077 [INFO] Opening GML Files
+2017-10-26 16:40:20,077 [WARNING] It is unknown if networkx version 1.11 will work.
+2017-10-26 16:40:20,077 [WARNING] If you get an error here, please report it!!!
+2017-10-26 16:40:20,093 [INFO] Loading Reference Sequence
+2017-10-26 16:40:20,095 [INFO] Extracting Reads
+2017-10-26 16:40:20,095 [INFO] Parsing /its1/GB_BT2/jianzuoyi/pipeline/biosoft/01.Assembly/PBSuite/PBSuite_15.8.24/docs/jellyExample/data/reads/filtered_subreads.fasta
+2017-10-26 16:40:20,114 [INFO] Selective loading from 500 reads
+2017-10-26 16:40:20,542 [INFO] Loaded 106 Reads
+2017-10-26 16:40:20,544 [INFO] Parsed 106 Reads
+2017-10-26 16:40:20,620 [INFO] Finished

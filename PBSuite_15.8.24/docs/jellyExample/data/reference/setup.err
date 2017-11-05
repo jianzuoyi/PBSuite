@@ -1,0 +1,4 @@
+2017-10-26 16:40:04,176 [INFO] Running /its1/GB_BT2/jianzuoyi/pipeline/biosoft/01.Assembly/PBSuite/PBSuite_15.8.24/bin/Setup.py /its1/GB_BT2/jianzuoyi/pipeline/biosoft/01.Assembly/PBSuite/PBSuite_15.8.24/docs/jellyExample/data/reference/lambda.fasta -g /its1/GB_BT2/jianzuoyi/pipeline/biosoft/01.Assembly/PBSuite/PBSuite_15.8.24/docs/jellyExample/data/reference/lambda.gapInfo.bed -i
+2017-10-26 16:40:04,177 [INFO] Creating reference sequence index names and identifying gaps
+2017-10-26 16:40:04,191 [INFO] Creating .sa indexes for references
+2017-10-26 16:40:04,207 [INFO] Finished!

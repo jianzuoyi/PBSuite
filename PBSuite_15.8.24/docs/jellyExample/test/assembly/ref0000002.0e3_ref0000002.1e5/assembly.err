@@ -1,0 +1,20 @@
+2017-10-26 16:40:23,160 [INFO] Running /its1/GB_BT2/jianzuoyi/pipeline/biosoft/01.Assembly/PBSuite/PBSuite_15.8.24/bin/Assembly.py /its1/GB_BT2/jianzuoyi/pipeline/biosoft/01.Assembly/PBSuite/PBSuite_15.8.24/docs/jellyExample/test/assembly/ref0000002.0e3_ref0000002.1e5 -p 50 --nproc=4
+2017-10-26 16:40:23,766 [INFO] Preunited 0 reads
+2017-10-26 16:40:23,889 [INFO] Running /its1/GB_BT2/jianzuoyi/pipeline/biosoft/01.Assembly/PBSuite/PBSuite_15.8.24/bin/Assembly.py /its1/GB_BT2/jianzuoyi/pipeline/biosoft/01.Assembly/PBSuite/PBSuite_15.8.24/docs/jellyExample/test/assembly/ref0000002.0e3_ref0000002.1e5 -p 50 --nproc=4
+2017-10-26 16:40:23,890 [INFO] Extracting tails
+2017-10-26 16:40:23,891 [INFO] Parsed 15 reads
+2017-10-26 16:40:23,891 [INFO] Found 16 tails
+2017-10-26 16:40:23,891 [INFO] 2 reads had double tails
+2017-10-26 16:40:23,891 [INFO] Mapping Tails
+2017-10-26 16:40:23,916 [INFO] [0, '[INFO] 2017-10-26T16:40:23 [blasr] started.\n[INFO] 2017-10-26T16:40:23 [blasr] ended.\n', None]
+2017-10-26 16:40:23,916 [INFO] Consolidating alignments
+2017-10-26 16:40:23,918 [INFO] 12 tails mapped
+2017-10-26 16:40:23,920 [INFO] fill seq is too short to call consensus
+2017-10-26 16:40:23,921 [INFO] 9 reads span
+2017-10-26 16:40:23,921 [INFO] 12 reads extend flank 1
+2017-10-26 16:40:23,922 [INFO] 10 reads extend flank 2
+2017-10-26 16:40:23,922 [INFO] estimated fill len 56
+2017-10-26 16:40:23,923 [INFO] estimated flank 1 extend len 380
+2017-10-26 16:40:23,923 [INFO] estimated flank 2 extend len 566
+2017-10-26 16:40:23,942 [INFO] Cleaning 10 temp files
+2017-10-26 16:40:23,943 [INFO] Finished

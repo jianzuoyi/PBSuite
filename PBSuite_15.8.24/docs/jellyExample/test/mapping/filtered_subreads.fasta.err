@@ -1,0 +1,9 @@
+2017-10-26 16:40:15,377 [INFO] Running /its1/GB_BT2/jianzuoyi/pipeline/biosoft/01.Assembly/PBSuite/PBSuite_15.8.24/bin/m4pie.py /its1/GB_BT2/jianzuoyi/pipeline/biosoft/01.Assembly/PBSuite/PBSuite_15.8.24/docs/jellyExample/test/mapping/filtered_subreads.fasta.m4 /its1/GB_BT2/jianzuoyi/pipeline/biosoft/01.Assembly/PBSuite/PBSuite_15.8.24/docs/jellyExample/data/reads/filtered_subreads.fasta /its1/GB_BT2/jianzuoyi/pipeline/biosoft/01.Assembly/PBSuite/PBSuite_15.8.24/docs/jellyExample/data/reference/lambda.fasta --nproc 4 -i
+2017-10-26 16:40:15,410 [INFO] Extracting tails
+2017-10-26 16:40:15,415 [INFO] Parsed 447 reads
+2017-10-26 16:40:15,416 [INFO] Found 304 tails
+2017-10-26 16:40:15,416 [INFO] 24 reads had double tails
+2017-10-26 16:40:15,416 [INFO] Mapping Tails
+2017-10-26 16:40:18,479 [INFO] [0, '[INFO] 2017-10-26T16:40:15 [blasr] started.\n[INFO] 2017-10-26T16:40:18 [blasr] ended.\n', None]
+2017-10-26 16:40:18,479 [INFO] Consolidating alignments
+2017-10-26 16:40:18,491 [INFO] 191 tails mapped
