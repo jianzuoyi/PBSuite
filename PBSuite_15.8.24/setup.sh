@@ -13,7 +13,8 @@ export SWEETPATH=/its1/GB_BT2/jianzuoyi/biosoft/PBSuite/PBSuite_15.8.24
 export PYTHONPATH=$PYTHONPATH:$SWEETPATH
 
 #for executables 
-PATH=$PATH:$SWEETPATH/bin/
+#PATH=$PATH:$SWEETPATH/bin/
+PATH=$SWEETPATH/bin:$PATH
 
 #for blasr 1.3.1
 #export PATH=/its1/GB_BT2/jianzuoyi/biosoft/smrtanalysis_2.3.0.140936_bin:$PATH

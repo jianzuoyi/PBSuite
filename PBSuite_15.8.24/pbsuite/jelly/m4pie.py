@@ -1,4 +1,4 @@
-#!/its1/GB_BT2/jianzuoyi/biosoft/anaconda/envs/pbjelly/bin/python
+#!/its1/GB_BT2/jianzuoyi/biosoft/anaconda/envs/PBJelly/bin/python
 #!/usr/bin/env python
 import os, re, argparse, logging, tempfile, sys
 from collections import defaultdict
