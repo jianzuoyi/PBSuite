@@ -3,7 +3,7 @@
 #If you use a virtual env - source it here
 #source /hgsc_software/PBSuite/pbsuiteVirtualEnv/bin/activate
 #source /its1/GB_BT2/jianzuoyi/biosoft/anaconda/envs/pbjelly/bin/activate
-#source activate pbjelly
+source activate PBJelly
 
 #This is the path where you've install the suite.
 #export SWEETPATH=/stornext/snfs5/next-gen/scratch/english/Jelly/DevJelly/trunk
